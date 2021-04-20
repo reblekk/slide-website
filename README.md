@@ -1,4 +1,4 @@
 # slide-website
 ----
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://i.nuuls.com/6YDp_.gif" width="40" height="40" />
